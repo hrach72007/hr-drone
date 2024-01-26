@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hr-drone/static/css/main.fdea0c40.css",
+    "main.js": "/hr-drone/static/js/main.efbf37b4.js",
+    "static/js/27.5e4f1497.chunk.js": "/hr-drone/static/js/27.5e4f1497.chunk.js",
+    "static/media/Profiles.png": "/hr-drone/static/media/Profiles.dc7e76d4ca876c0e0e75.png",
+    "static/media/avatar2.png": "/hr-drone/static/media/avatar2.b094f835406f33649b88.png",
+    "static/media/mng.png": "/hr-drone/static/media/mng.f795f96be2f622394411.png",
+    "static/media/Hire3.png": "/hr-drone/static/media/Hire3.4da30c17061763ca49bf.png",
+    "static/media/avatar1.png": "/hr-drone/static/media/avatar1.38a25a2ecebccd42cb81.png",
+    "static/media/Hire4.png": "/hr-drone/static/media/Hire4.7eb86c697170dc0fa4e8.png",
+    "static/media/avatar3.png": "/hr-drone/static/media/avatar3.6a8b8a2e91ba66e1b2e7.png",
+    "static/media/Hire2.png": "/hr-drone/static/media/Hire2.38de8e65064162c25eb5.png",
+    "static/media/HireWithUs.png": "/hr-drone/static/media/HireWithUs.6f1a7fa3491688a66dd3.png",
+    "static/media/Hire1.png": "/hr-drone/static/media/Hire1.b8f50b4833f35aa1f179.png",
+    "static/media/slick.svg": "/hr-drone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/hr-drone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/hr-drone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/hr-drone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/hr-drone/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fdea0c40.css",
+    "static/js/main.efbf37b4.js"
+  ]
+}
